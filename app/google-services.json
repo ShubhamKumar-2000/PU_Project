@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "57379617181",
+    "firebase_url": "https://trailconnect-84519-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trailconnect-84519",
+    "storage_bucket": "trailconnect-84519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57379617181:android:a3bf330328744f32de9774",
+        "android_client_info": {
+          "package_name": "com.example.trailconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57379617181-kmtjdd9bambo78i2o5tmo2b7gqoj0bjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trailconnect",
+            "certificate_hash": "4a3efbfd1d379b9943d8b39d7a2ebdbc6cb9ef45"
+          }
+        },
+        {
+          "client_id": "57379617181-bn7sofg84ok3jcpegas9s2ss34scfkl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPgVHEe0MsObKGjVbU4ppB20cwugJclfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57379617181-bn7sofg84ok3jcpegas9s2ss34scfkl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
