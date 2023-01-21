@@ -40,7 +40,7 @@ public class DriverLoginActivity extends AppCompatActivity {
                 FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
                 //I have this condition becoz this AuthStateListener is called even when user logout so we have to make sure user is loggedin in order to move forward
                 if(user != null){
-                    Intent intent = new Intent(DriverLoginActivity.this, MapActivity.class);
+                    Intent intent = new Intent(DriverLoginActivity.this, DriverMapActivity.class);
                     startActivity(intent);
                     finish();
                     return;
